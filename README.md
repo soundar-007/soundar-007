@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soundar</h1>
 
  <h2>About🎖️</h2>
-- **const firstName = "Soundar"**
-const country = "IN" 
+ 
+const firstName = "Soundar"
 
   
 </div>
