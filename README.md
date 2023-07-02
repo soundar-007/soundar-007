@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soundar</h1>
 
  <h2>About🎖️</h2>
-<h4>const firstName = "Soundar" ></h4> 
+<h4>const firstName = "Soundar"</h4> 
 <h4>const country = "IN" </h4>
 
   
