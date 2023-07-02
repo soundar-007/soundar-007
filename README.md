@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soundar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>  
 
+<h4const firstName = "Soundar" ></h4> 
+<h4>const country = "IN" </h4>
+
+  
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundar-007&label=Profile%20views&color=0e75b6&style=flat" alt="soundar-007" /> </p>
 
 - 🌱 I’m currently learning **React js**
