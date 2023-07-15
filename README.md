@@ -5,7 +5,7 @@
 const firstName = "Soundar"
 
   
-</div><img  height=75% align="right" src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47inbj6899d0qo2yhg2oi7xt4h4j06i1vi8mn66126&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Let's Code"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundar-007&label=Profile%20views&color=0e75b6&style=flat" alt="soundar-007" /> </p>
 
 - 🌱 I’m currently learning **React js**
