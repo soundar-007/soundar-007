@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Soundar</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Soundar</h1>
 
  <h2>About🎖️</h2>
  
 const firstName = "Soundar"
 
   
-</div>
+</div><img  height=75% align="right" src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47inbj6899d0qo2yhg2oi7xt4h4j06i1vi8mn66126&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Let's Code"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundar-007&label=Profile%20views&color=0e75b6&style=flat" alt="soundar-007" /> </p>
 
 - 🌱 I’m currently learning **React js**
@@ -13,6 +13,7 @@ const firstName = "Soundar"
 - 📫 How to reach me **jsoundar643@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/soundararajan-j-61b497240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundararajan-j-61b497240" height="30" width="40" /></a>
 </p>
